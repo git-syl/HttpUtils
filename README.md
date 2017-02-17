@@ -1,5 +1,5 @@
 # HttpUtils
-HttpUtils Asynchronous and synchronous get post file uploads
+HttpUtils with Asynchronous and synchronous.Support get post requests, file upload
 
 How to use:
 Upload File
